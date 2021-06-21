@@ -2,8 +2,8 @@
 
 ```
 This was a Stock Trader i've done in mine vuejs2 studies
-the ui its very simple, but pretty so does the job, the focus here was use, Vue, to make a Stock Trader with a db, so all your data can be save in mine db at firebase 
-i will leave my db open to you guys test the application, as long no one to mess up with mine db. 
+the ui its very simple, but pretty so does the job, the focus here was use Vue,js 2, to make a Stock Trader with a db 
+so all your data can be save in mine db at firebase, i will leave my db open to you guys test the application, as long no one to mess up with mine db. 
 
 The app is in portuguese my native language, so if you don't understand, may use google translate to help you, at moment i'm too busy to make a english version of.
  i have other projects with more complex UI/CSS or style, if want, be my guest to look.
@@ -21,7 +21,7 @@ Step 4: After node dependencies be install, in the same folder you will be using
 then will appear on the terminal "App running at:
   - Local:   http://localhost:8080/
   - Network: http://192.168.0.19:8080/" 
-Step 5: copy the sentence fowrd "local:", probaly will be " http://localhost:8080/" 
+Step 5: copy the sentence forward "local:", probaly will be " http://localhost:8080/" 
 Step 6: Paste in your browser and have fun or not jk :3 
 
 ```
