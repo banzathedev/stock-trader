@@ -66,7 +66,7 @@ Etapa 5: copie a frase á frende de "local:", provavelmente será "http: // loca
 Etapa 6: cole em seu navegador e divirta-se ou não ninguém gosta de arrumar a casa haha XD 
 ```
 
-### like it ? PT-BR
+### Gostou ? PT-BR
 
 ```
 se gostou ou quer colaborar, fique à vontade para entrar em contato comigo
